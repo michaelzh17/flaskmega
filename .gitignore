@@ -1,3 +1,7 @@
 venv
 *.pyc
-
+webtrader/
+apitrader/
+Lecture_W5_D5/
+tutorial_app/
+.vscode/
